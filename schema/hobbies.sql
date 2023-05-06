@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS hobbies (
+    id SERIAL PRIMARY KEY,
+    hobby VARCHAR(255) NOT NULL
+);
