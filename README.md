@@ -4,3 +4,6 @@ Run with:
 ```
 npm start
 ```
+
+Runs on default on port 3000. Set the env variable PORT if you'd like to 
+change it.
